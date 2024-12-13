@@ -9,3 +9,9 @@ My current goal is to grow in my career, learn useful and interesting tools whil
 ## Projects
 
 ### Python
+* [Superstore Analysis](https://github.com/OtavioMarinho/Data-Analyst-Portfolio/blob/main/EN-Superstore.ipynb)
+* [Brazil Comparative Analysis](https://github.com/OtavioMarinho/Data-Analyst-Portfolio/blob/main/EN-BrasilGeo.ipynb)
+* [Data Exploration Airbnb Rio](https://github.com/OtavioMarinho/Data-Analyst-Portfolio/blob/main/EN-Airbnb_Rio_Analysis.ipynb)
+
+### SQL
+* [Simple simulated Hotel Querys](https://github.com/OtavioMarinho/Data-Analyst-Portfolio/blob/main/SQLSimple.ipynb)
